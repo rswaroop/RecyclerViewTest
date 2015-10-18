@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewTest</string>
+    <string name="webview_tab">Form</string>
+    <string name="records_tab">Records</string>
+</resources>
